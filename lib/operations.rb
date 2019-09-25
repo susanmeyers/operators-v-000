@@ -30,6 +30,8 @@ def not_safe?(speed)
     return false
   end
   
+  
+  
 	
 end
 
